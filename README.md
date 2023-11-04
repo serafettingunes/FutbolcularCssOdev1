@@ -20,7 +20,7 @@
     <!-- section*3>article*4>h1{MESSİ}+a>img[width="350" src="962489.jpg"] -->
 
     <!-- section*3>article*4>h1{MESSİ}+a>img[width="350" height="350" src="962489.jpg"]
-     -->
+-->
      <section>
         <article>
             <h1>MESSİ</h1>
