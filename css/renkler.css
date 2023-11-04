@@ -1,0 +1,19 @@
+body{
+    background-color:#F2CB05 ;
+    font-family: 'Agbalumo';
+}
+article{
+    float:left;
+    margin:auto  auto auto 20px;
+   
+}
+header{
+    font-size: 70px;
+    text-align: center;
+    
+    color: #023373;
+
+}
+h1{
+    color: #03A63C;
+}
