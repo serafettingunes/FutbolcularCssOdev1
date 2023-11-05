@@ -10,10 +10,11 @@ article{
 header{
     font-size: 70px;
     text-align: center;
-    
+    text-transform: uppercase;
     color: #023373;
 
 }
 h1{
     color: #03A63C;
+    text-transform: uppercase;
 }
